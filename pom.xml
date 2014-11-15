@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>fabric.js</artifactId>
-    <version>1.4.12</version>
+    <version>1.4.13-SNAPSHOT</version>
     <name>Fabric</name>
     <description>WebJar for Fabric</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/fabric.js</url>
         <connection>scm:git:https://github.com/webjars/fabric.js.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/fabric.js.git</developerConnection>
-        <tag>fabric.js-1.4.12</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
